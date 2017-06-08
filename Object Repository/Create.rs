@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Create</name>
+   <tag></tag>
+   <elementGuidId>d46741e0-8d16-4434-bc51-dda95539e6b1</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <httpBody>{&quot;name&quot;: &quot;Franky&quot;}</httpBody>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+   </httpHeaderProperties>
+   <restParameters>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>employees</name>
+      <type>Main</type>
+      <value></value>
+   </restParameters>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>http://localhost:3000/employees</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceFunction></soapServiceFunction>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
